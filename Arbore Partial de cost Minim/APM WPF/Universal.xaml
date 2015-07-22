@@ -1,0 +1,62 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" x:Class="APM_WPF.Universal" 
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="389">
+    <Grid>
+
+        <!-- <dxb:BarManager>
+            <dxb:BarManager.Bars>
+                <dxb:Bar Caption="Main Menu" IsMainMenu="True">
+                    <dxb:BarButtonItem Content="Setup" ItemClick="setup"/>
+                    <dxb:BarButtonItem Content="Start" ItemClick="functie"/>
+                    <dxb:BarButtonItem Content="Derulare rapida" />
+                </dxb:Bar>
+            </dxb:BarManager.Bars> -->
+
+        <Menu Name ="meniu" Height="25" VerticalAlignment="Top">
+            <Menu.Background>
+                <SolidColorBrush Color="{DynamicResource Color_Inactive}"/>
+            </Menu.Background>
+            <MenuItem Header="Setup" Click="setup" Height="27" Width="47"/>
+            <MenuItem Header="Inainte" Click="functie" />
+            <MenuItem Header="Derulare Rapida" Click="derulare" />
+
+        </Menu>
+
+        <ListView Name="WatchMuchii" HorizontalAlignment="Left" Height="254" Margin="100,136,0,0" VerticalAlignment="Top" Width="145" FontFamily="Times New Roman" FontSize="16">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="35" Header="x" DisplayMemberBinding="{Binding Xstr}"/>
+                    <GridViewColumn Width="35" Header="y" DisplayMemberBinding="{Binding Ystr}"/>
+                    <GridViewColumn Width="40" Header="Dist" DisplayMemberBinding="{Binding Diststr}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView Name="WatchNoduri" HorizontalAlignment="Left" Height="254" VerticalAlignment="Top" Width="100" Margin="0,136,0,0" FontSize="16" FontFamily="Times New Roman">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="35" Header="Nod" DisplayMemberBinding="{Binding Content}"/>
+                    <GridViewColumn Width="35" Header="Info" DisplayMemberBinding="{Binding infostr}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBlock Name="Explicatii" TextWrapping="Wrap" VerticalAlignment="Top" Height="88" Text="     Explicații pași" Background="#FF9AADFF" FontSize="16" FontFamily="Times New Roman" Margin="0,25,-1,0"/>
+        <Label Content="Noduri" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="47" Margin="32,113,0,0"/>
+        <Label Content="Muchii" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Width="48" Margin="146,113,0,0"/>
+        <Label Content="Muchii selectate: 0" Name="WatchNr" HorizontalAlignment="Left" Margin="250,113,0,0" VerticalAlignment="Top" Height="28" Width="117"/>
+        <ListView Name="WatchSelected" HorizontalAlignment="Left" Height="254" Margin="245,136,0,0" VerticalAlignment="Top" Width="145" FontFamily="Times New Roman" FontSize="16">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="35" Header="x" DisplayMemberBinding="{Binding Xstr}"/>
+                    <GridViewColumn Width="35" Header="y" DisplayMemberBinding="{Binding Ystr}"/>
+                    <GridViewColumn Width="40" Header="Dist" DisplayMemberBinding="{Binding Diststr}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,38 @@
+﻿<FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:local="clr-namespace:APM_WPF"
+              ColumnWidth="400" FontSize="14" FontFamily="Georgia"  Name="KruskalInfo">
+
+        <Paragraph>Algoritmul funcționează în felul următor:</Paragraph>
+        <List>
+            <ListItem><Paragraph>
+                creează o pădure F (o mulțime de arbori), unde fiecare vârf din graf este un arbore separat
+            </Paragraph></ListItem>
+        <ListItem>
+            <Paragraph>
+                creează o mulțime
+                S care conține toate muchiile din graf
+            </Paragraph>
+        </ListItem>
+        <ListItem>
+            <Paragraph>atât timp cât S este nevidă</Paragraph>
+
+            <List>
+                    <ListItem>
+                        <Paragraph>
+                            elimină o muchie de cost minim din
+                        </Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>dacă acea muchie conectează doi arbori distincți, atunci adaugă muchia în pădure, combinând cei doi arbori într-unul singur</Paragraph>
+                    </ListItem>
+                    <ListItem>
+                        <Paragraph>altfel, ignoră muchia</Paragraph>
+                    </ListItem>
+            </List>
+        </ListItem>
+        </List>
+        <Paragraph>La sfârșitul algoritmului, pădurea are doar o componentă care reprezintă un arbore parțial de cost minim al grafului.</Paragraph>
+        <Paragraph>Acest algoritm a fost scris de Joseph Kruskal, în 1956.</Paragraph>
+        
+        <Paragraph></Paragraph>
+   
+</FlowDocument>

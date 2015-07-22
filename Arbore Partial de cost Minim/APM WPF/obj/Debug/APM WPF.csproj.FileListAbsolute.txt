@@ -1,0 +1,264 @@
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\APM WPF.exe.config
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\APM WPF.exe
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\APM WPF.pdb
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Effects.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\System.Windows.Interactivity.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\BaraMeniu.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Brushes.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\kruskal.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Muchie.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Resources.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Texte.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\App.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\GrafControl.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\kruskal.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\MainWindow.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Muchie.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\App.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.cache
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.lref
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\GrafControl.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\kruskal_info.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\MainWindow.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\Themes\Generic.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.g.resources
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM_WPF.Properties.Resources.resources
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.csproj.GenerateResource.Cache
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.exe.licenses
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.exe
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.pdb
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\APM WPF.csprojResolveAssemblyReference.cache
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\prim.baml
+D:\COPY\Copy\Info\VIZUAL\atestat Mitel\APM WPF\APM WPF\obj\Debug\prim.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\APM WPF.exe.config
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\APM WPF.exe
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\APM WPF.pdb
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Effects.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\BaraMeniu.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Brushes.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\kruskal.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Muchie.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\prim.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Resources.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Texte.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Universal.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\App.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\AlgorithmUI.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\GrafControl.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\kruskal.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\MainWindow.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Muchie.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\prim.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Universal.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\App.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.cache
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.lref
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\AlgorithmUI.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\GrafControl.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\kruskal_info.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\MainWindow.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\Themes\Generic.baml
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.g.resources
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM_WPF.Properties.Resources.resources
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.csproj.GenerateResource.Cache
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.exe.licenses
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.exe
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.pdb
+D:\Date Timi\Arbore Partial De Cost Minim\APM WPF\APM WPF\obj\Debug\APM WPF.csprojResolveAssemblyReference.cache
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\APM WPF.exe.config
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.exe
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.pdb
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\APM WPF.exe
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\APM WPF.pdb
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.csprojResolveAssemblyReference.cache
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\BaraMeniu.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Brushes.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\kruskal.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Muchie.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\prim.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Resources.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Texte.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Universal.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\App.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\AlgorithmUI.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\GrafControl.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\kruskal.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Muchie.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\prim.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Universal.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\App.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.cache
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.lref
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\AlgorithmUI.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\GrafControl.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\kruskal_info.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\MainWindow.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\Themes\Generic.baml
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.g.resources
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM_WPF.Properties.Resources.resources
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.csproj.GenerateResource.Cache
+C:\Users\Supermitel\Desktop\APM-WPF\APM WPF\APM WPF\obj\Debug\APM WPF.exe.licenses
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\APM WPF.exe.config
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.exe
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.pdb
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\APM WPF.exe
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\APM WPF.pdb
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Effects.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\Microsoft.Expression.Interactions.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\System.Windows.Interactivity.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\de\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\en\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\es\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\it\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.csprojResolveAssemblyReference.cache
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\BaraMeniu.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Brushes.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\kruskal.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Muchie.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\prim.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Resources.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Texte.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Universal.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\App.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\AlgorithmUI.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\GrafControl.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\kruskal.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\MainWindow.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Muchie.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\prim.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Universal.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\App.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.cache
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF_MarkupCompile.lref
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\AlgorithmUI.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\GrafControl.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\kruskal_info.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\MainWindow.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\Themes\Generic.baml
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.g.resources
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM_WPF.Properties.Resources.resources
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.csproj.GenerateResource.Cache
+Z:\__Rapid_Temporar\APM WPF\APM WPF\obj\Debug\APM WPF.exe.licenses

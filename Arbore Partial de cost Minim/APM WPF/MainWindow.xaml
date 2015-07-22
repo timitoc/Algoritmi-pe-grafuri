@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:dxca="http://schemas.devexpress.com/winfx/2008/xaml/carousel" xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" xmlns:local="clr-namespace:APM_WPF" xmlns:dxpg="http://schemas.devexpress.com/winfx/2008/xaml/pivotgrid" xmlns:dxsps="http://schemas.devexpress.com/winfx/2008/xaml/spreadsheet" x:Class="APM_WPF.MainWindow"
+        
+        Title="Soft educațional - Arbore parțial de cost minim"  MinWidth="900" Width="766">
+
+    <Grid Name="Totul" Margin="0,0,0,0">
+        <DockPanel Margin="0,0,0,0">
+            <Grid Margin="0, 0, 0, 0">
+                <Grid x:Name="Stanga" Margin="10,45,430,46">
+                    <TextBlock x:Name ="info_bloc" HorizontalAlignment="Left" Height="406" Margin="0, 0, 0, 0" TextWrapping="Wrap" Visibility ="Collapsed" VerticalAlignment="Top" Width="383" FontSize="16" FontFamily="Times New Roman" ><Bold><Run Text="Problema Arborelui Parțial de cost minim:"/></Bold><LineBreak/><Run Text="     Se dă un graf conex neorientat G cu N noduri și M muchii, fiecare muchie având asociat un cost. Se cere să se determine un subgraf care cuprinde toate nodurile și o parte din muchii, astfel încât subgraful determinat să aibă structura de arbore si suma costurilor muchiilor care îl formează să fie minim posibilă. Subgraful cu proprietățile de mai sus se va numi arbore parțial de cost minim pentru graful dat."/><InlineUIContainer/></TextBlock>
+                    <local:GrafControl x:Name="GrafGrid" Width="Auto" Margin="0, 0, 0, 0" />
+                </Grid>
+                <Grid x:Name="Dreapta" Margin="0,45,10,0" HorizontalAlignment="Right" Width="420">
+
+                </Grid>
+                <Menu Name="MainMenu" Height="40" VerticalAlignment="Top" BorderThickness="0,0,0,0" >
+                    <Menu.Background>
+                        <SolidColorBrush Color="{DynamicResource Color_Inactive}"/>
+                    </Menu.Background>
+                    <MenuItem Header=" Algoritmi" FontSize="18">
+                        <MenuItem Header="Creează" Click="Algoritm_Nou"/>
+                        <MenuItem Header="Adaugă" Click="Adauga_Algoritm"/>
+                    </MenuItem>
+                    <MenuItem Header="APM" FontSize="18" Click="APM_Enunt"/>
+                    <MenuItem Header="Editor Graf" FontSize="18" Click="Editor_graf"/>
+                    <MenuItem Header="Kruskal" Height="40" FontSize="18">
+                        <MenuItem Header="Teorie" Click="kruskal_teorie"/>
+                        <MenuItem Header="Demonstratie" Click="kruskal_demo"/>                    
+                        <MenuItem Header="Optimizare" Click="disjunct"/>
+                    </MenuItem>
+                    <MenuItem Header="Prim" FontSize="18">
+                        <MenuItem Header="Teorie" Click="prim_teorie"/>
+                        <MenuItem Header="Demonstratie" Click="prim_demo"/>
+                    </MenuItem>
+                </Menu>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

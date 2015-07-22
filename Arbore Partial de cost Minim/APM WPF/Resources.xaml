@@ -1,0 +1,68 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:ee="http://schemas.microsoft.com/expression/2010/effects" mc:Ignorable="d" >
+
+	<Image x:Key="bin_empty" Source="pictures/bin_empty.png"/>
+	<Image x:Key="bin_full" Source="pictures/bin_full.png"/>
+
+	<ControlTemplate x:Key="invisible" TargetType="{x:Type Button}">
+		<Rectangle Fill="Black" HorizontalAlignment="Stretch" Height="Auto" Stroke="{x:Null}" VerticalAlignment="Stretch" Width="Auto" Opacity="0"/>
+	</ControlTemplate>
+	<Color x:Key="Color_Active">#FF6969FB</Color>
+	<Color x:Key="Color_Inactive">#FF8383FF</Color>
+
+	 <ControlTemplate x:Key="ButtonControlRound" TargetType="{x:Type Button}">
+        <Grid x:Name="grid" Margin="0">
+			<VisualStateManager.VisualStateGroups>
+				<VisualStateGroup x:Name="CommonStates">
+					<VisualState x:Name="Normal">
+						<Storyboard>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF8383FF"/>
+							</ColorAnimationUsingKeyFrames>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Stroke).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FFD3D3FF"/>
+							</ColorAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualState>
+					<VisualState x:Name="MouseOver">
+						<Storyboard>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF8383FF"/>
+							</ColorAnimationUsingKeyFrames>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Stroke).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF31316C"/>
+							</ColorAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualState>
+					<VisualState x:Name="Pressed">
+						<Storyboard>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF6969FB"/>
+							</ColorAnimationUsingKeyFrames>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Stroke).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF31316C"/>
+							</ColorAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualState>
+					<VisualState x:Name="Disabled">
+						<Storyboard>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Stroke).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FFD3D3FF"/>
+							</ColorAnimationUsingKeyFrames>
+							<ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Shape.Fill).(SolidColorBrush.Color)" Storyboard.TargetName="cerc">
+								<EasingColorKeyFrame KeyTime="0" Value="#FF6969FB"/>
+							</ColorAnimationUsingKeyFrames>
+						</Storyboard>
+					</VisualState>
+				</VisualStateGroup>
+			</VisualStateManager.VisualStateGroups>
+			<Ellipse x:Name="cerc" Fill="#FFF4F4F5" Height="Auto" Stroke="Black" Width="Auto"/>
+			<ContentPresenter HorizontalAlignment="Center" Height="Auto" VerticalAlignment="Center" Width="Auto"/>
+		</Grid>
+		<ControlTemplate.Triggers>
+			<EventTrigger RoutedEvent="ButtonBase.Click"/>
+		</ControlTemplate.Triggers>
+	</ControlTemplate>
+    
+	
+</ResourceDictionary>

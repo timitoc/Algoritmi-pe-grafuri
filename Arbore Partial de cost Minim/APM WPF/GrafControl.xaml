@@ -1,0 +1,38 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxb="http://schemas.devexpress.com/winfx/2008/xaml/bars" 
+                xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core" 
+                xmlns:local="clr-namespace:APM_WPF" 
+                x:Class="APM_WPF.GrafControl" 
+             mc:Ignorable="d" d:DesignHeight="400" Width="400
+    ">
+    <Grid Margin="0, 0, 0, 0">
+
+        <Menu BorderBrush="Black" Height="25" VerticalAlignment="Top">
+            <Menu.Background>
+                <SolidColorBrush Color="{DynamicResource Color_Inactive}"/>
+            </Menu.Background>
+            <MenuItem Header="Deschide" Click="Load"/>
+            <MenuItem Header="Generează" Click="generate" />
+            <MenuItem Header="Construiește" Click="construieste" />
+            <MenuItem Header="Salvează" Click="save"/>
+            <MenuItem Header="Șterge" Click="Sterge" />
+        </Menu>
+
+        <Canvas x:Name="graf_grid" AllowDrop="True" x:FieldModifier="public" Background="AliceBlue" Margin="0,25,0,0">
+            <Grid Name="toolbox" Height="59" Width="400" Margin="0, 0, 0, 0">
+                <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Stretch"/>
+                <Button x:Name="graf_nod_but" Content ="nod" Height="40" Width="40" Template="{DynamicResource ButtonControlRound}" Margin="96,10,264,0" VerticalAlignment="Top"/>
+                <local:Muchie x:Name="muchie1" HorizontalAlignment="Left" VerticalAlignment="Top" Height="40" RenderTransformOrigin="0.5,0.5" Width="109" Margin="159,10,0,0" />
+                <Button x:Name="invbut"  Content="Button" Height="40" Width="109" Template="{DynamicResource invisible}" Margin="159,9,132,0" VerticalAlignment="Top"/>
+                <!--<Button x:Name="bin" Content="{DynamicResource bin_empty}" Height="70" Width="70" Background="AliceBlue" BorderBrush="AliceBlue" Margin="0,286,20,-297" VerticalAlignment="Top" HorizontalAlignment="Right"/> -->
+                <Label Content="Adaugă:" FontSize="14" Margin="0,16,320,0" Height="33" VerticalAlignment="Top" HorizontalAlignment="Right" Width="61" />
+                <Button Name ="aranjarebut" Click ="AutoArange" Content="Auto-Aranjare" Width="100" FontSize="14" Margin="0,9,10,9" HorizontalAlignment="Right"/>
+            </Grid>
+        </Canvas>
+
+    </Grid>
+</UserControl>

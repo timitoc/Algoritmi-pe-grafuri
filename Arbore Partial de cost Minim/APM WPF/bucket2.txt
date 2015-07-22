@@ -1,0 +1,9 @@
+
+}
+		public void finish(String alert)
+		{
+			isFinished = true;
+			alerta = alert;
+		}
+	}
+}

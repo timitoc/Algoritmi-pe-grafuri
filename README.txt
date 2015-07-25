@@ -1,7 +1,7 @@
 Fisierele text si imaginile folosite(bucket1.txt, bucket2.txt, Reworked (acolada|part1|part2|part3).png) 
 sunt realizate de noi(Ardelean Andrei Timotei sau Ardelean Razvan Mitel).
 
-Pentru explicatia teoretica a algoritmilor am folosit ca sursa: http://www.wikipedia.com/
+Pentru explicatia teoretica a algoritmilor am folosit ca sursa: http://www.wikipedia.com/wiki/
 Pentru enuntul problemei APM: http://www.infoarena.ro
 
 Am folosit cateva "code snippets" din surse deschise pe care le mentionez

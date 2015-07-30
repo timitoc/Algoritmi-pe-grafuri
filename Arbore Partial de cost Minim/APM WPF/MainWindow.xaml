@@ -27,12 +27,12 @@
                     <MenuItem Header="Editor Graf" FontSize="18" Click="Editor_graf"/>
                     <MenuItem Header="Kruskal" Height="40" FontSize="18">
                         <MenuItem Header="Teorie" Click="kruskal_teorie"/>
-                        <MenuItem Header="Demonstratie" Click="kruskal_demo"/>                    
+                        <MenuItem Header="Demonstrație" Click="kruskal_demo"/>                    
                         <MenuItem Header="Optimizare" Click="disjunct"/>
                     </MenuItem>
                     <MenuItem Header="Prim" FontSize="18">
                         <MenuItem Header="Teorie" Click="prim_teorie"/>
-                        <MenuItem Header="Demonstratie" Click="prim_demo"/>
+                        <MenuItem Header="Demonstrație" Click="prim_demo"/>
                     </MenuItem>
                 </Menu>
             </Grid>

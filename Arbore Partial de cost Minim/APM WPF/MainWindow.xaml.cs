@@ -157,8 +157,28 @@ namespace APM_WPF
 
                 if (System.IO.File.Exists(newPath))
                 {
-                    MessageBox.Show("Exista deja un algoritm cu acelasi nume !!! ", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                    Adauga_Algoritm(sender, e);
+                    
+                    var res = MessageBox.Show("Exista deja un algoritm cu acelasi nume.\nDoriți să-l înlocuiți?", "Confirmă Adăugarea", MessageBoxButton.YesNo, MessageBoxImage.Warning);
+                    if (res == MessageBoxResult.No)
+                        return;
+                    
+                    if (!validAlgo(x.FileName))
+                    {
+                        MessageBox.Show("Fisierul nu are un format .algo valid", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                        return;
+                    }
+       
+                    foreach (MenuItem mi in MainMenu.Items)
+                    {
+                        if (mi.Header.Equals(System.IO.Path.GetFileNameWithoutExtension(x.FileName)))
+                        {
+                            ((MenuItem)mi.Items[2]).RaiseEvent(new RoutedEventArgs(MenuItem.ClickEvent));
+                            break;
+                        }
+                    }
+                    System.IO.File.Copy(x.FileName, newPath, true);
+                    addMenuAlgorithm(newPath);
+                    Totul_SizeChanged(Totul.ActualWidth);
                     return;
                 }
                 if (!validAlgo(x.FileName))
@@ -168,7 +188,7 @@ namespace APM_WPF
                 }
 
                 System.IO.File.Copy(x.FileName, newPath, true);
-                
+
                 addMenuAlgorithm(newPath);
 
                 Totul_SizeChanged(Totul.ActualWidth);

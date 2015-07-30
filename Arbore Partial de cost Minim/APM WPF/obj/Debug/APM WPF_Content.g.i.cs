@@ -8,9 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reworked%20acolada.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reworked%20part1.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reworked%20part2.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("reworked%20part3.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("icon.ico")]
 
 

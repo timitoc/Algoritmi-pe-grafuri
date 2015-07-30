@@ -14,6 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace APM_WPF
 {
@@ -116,6 +117,7 @@ namespace APM_WPF
                 MessageBox.Show("Algoritm salvat cu succes", "Succes", MessageBoxButton.OK, MessageBoxImage.Information);
             }
         }
+        
         private void Load(object sender, RoutedEventArgs e)
         {
             System.Windows.Forms.OpenFileDialog x = new System.Windows.Forms.OpenFileDialog();
@@ -135,11 +137,12 @@ namespace APM_WPF
                     }
                     catch (Exception ex)
                     {
-                        MessageBox.Show("Selected file is not a valid .algo file");
+                        MessageBox.Show("Selected file is not a valid .algo file", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                     }
                     return;
                 }
-            MessageBox.Show("Selected file is not a valid .algo file");
+            MessageBox.Show("Selected file is not a valid .algo file", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+          
         }
 
         private void Adauga_Teorie(object sender, RoutedEventArgs e)
@@ -292,6 +295,7 @@ namespace APM_WPF
             clean(start);
             clean(declarations);
             clean(executa);
+            
             MessageBox.Show("Algoritmul a fost reluat cu succes!", "Succes", MessageBoxButton.OK, MessageBoxImage.Information);
         }
         private void clean(TextBox tB)

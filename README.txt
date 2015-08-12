@@ -1,3 +1,5 @@
+Numele pentru repository este acesta deoarece cand aplicatia a fost conceputa, scopul acesteia se limita la studierea algoritmilor cu privire la Arborele Partial de cost Minim. Ulterior a fost dezvoltata pentru a suporta studierea oricărui algoritm pentru grafuri.
+
 Fisierele text si imaginile folosite(bucket1.txt, bucket2.txt, Reworked (acolada|part1|part2|part3).png) 
 sunt realizate de noi(Ardelean Andrei Timotei sau Ardelean Razvan Mitel).
 
@@ -29,10 +31,10 @@ Distributia contributiei partilor:
 
 Ardelean Andrei Timotei:- Realizarea claselor: Algorithm.cs, AlgorithmUI.xaml, LineCounter.cs, Universal.xaml, Prim.xaml
 			- Ajustar/Modificari/Update-uri semnificative aduse clasei MainWindow.xaml
-			- Contributii la realizarea documentatiei
+			
 
 Ardelean Razvan Mitel:  - Realizarea claselor Graf.cs, GrafControl.xaml, Nod.cs, Muchie.xaml, Kruskal.xaml
 			- Realizarea stadiului initial al clasei MainWindow.xaml
 			- Proiectarea interfetei cu utilizatorul
-			- Contributii la realizarea documentatiei
+			
 

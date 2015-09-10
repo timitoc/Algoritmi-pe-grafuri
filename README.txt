@@ -1,4 +1,4 @@
-Numele pentru repository este acesta deoarece cand aplicatia a fost conceputa, scopul acesteia se limita la studierea algoritmilor cu privire la Arborele Partial de cost Minim. Ulterior a fost dezvoltata pentru a suporta studierea oricărui algoritm pentru grafuri.
+Algoritmi pe grafuri, fostul "Arbore Partial de cost Minim", nume care nu mai corespunde cu continutul softului.
 
 Fisierele text si imaginile folosite(bucket1.txt, bucket2.txt, Reworked (acolada|part1|part2|part3).png) 
 sunt realizate de noi(Ardelean Andrei Timotei sau Ardelean Razvan Mitel).
